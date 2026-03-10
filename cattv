@@ -1,0 +1,36 @@
+{
+   "name": "Cat Tv",
+   "author": "เด็กปากพนังครับ",
+   "url": "https://raw.githubusercontent.com/cattviptv2605/CatTV.w3u/refs/heads/main/CatTV.w3u",
+   "image": "http://www.sarakadee.com/blog/oneton/wp-content/uploads/2017/12/cat-cute-e1533862828469.jpg",
+   "image": "http://www.sarakadee.com/blog/oneton/wp-content/uploads/2017/12/cat-cute-e1533862828469.jpg",
+   "info": "For เด็กปากพนังน่ะครับ",
+ 
+   "groups": [
+ 
+            {
+				"name": "All Channel",
+				"image": "https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",     
+	            "url":"https://raw.githubusercontent.com/cattviptv2605/All-Channel.w3u/refs/heads/main/All%20Channel",
+				"info": "For เด็กปากพนังน่ะครับ",
+				"import": false},
+ 
+             {
+				"name": "Sport_Thai",
+				"image": "https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",  
+				"url": "https://raw.githubusercontent.com/cattviptv2605/SportThai.w3u/refs/heads/main/SportThai",
+				"info": "For เด็กปากพนังน่ะครับ",
+				"import": false},
+ 
+             {
+				"name": "Sport_World", 
+				"image": "https://img-0.journaldunet.com/OBt0s3fhBuxBk94snV_frtVLvd8=/1500x/smart/4b630c80edbf462ba798f54b9e407bd5/ccmcms-jdn/10371437.jpg", 
+				"url": "https://raw.githubusercontent.com/cattviptv2605/SportWorld.w3u/refs/heads/main/SportWorld",
+				"info": "For เด็กปากพนังน่ะครับ",
+				"import": false},
+ 
+           
+            
+ 
+]
+}
