@@ -28,7 +28,20 @@
 				"url": "https://raw.githubusercontent.com/cattv976/SportWorld.w3u/refs/heads/main/sportworld",
 				"info": "For เด็กปากพนังน่ะครับ",
 				"import": false},
- 
+
+            {
+				"name": "Series-china", 
+				"image": "https://yt3.googleusercontent.com/36B4phYLW_HpRnjEi9Som5p2yxPs6ySwFDyYRZi0UK8vXAS-76pCAAgb54fEqHQoqsMR2f0MSg=s900-c-k-c0x00ffffff-no-rj", 
+				"url": "https://raw.githubusercontent.com/cattv976/Series-china/refs/heads/main/series.m3u",
+				"info": "For เด็กปากพนังน่ะครับ",
+				"import": false},
+
+           {
+				"name": "Series-korea", 
+				"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80QVVtx-zFv5bjiQB_k2tq53ZK3btKnNt4lr-c-uWJQ&s=10", 
+				"url": "https://raw.githubusercontent.com/cattv976/Series-korea/refs/heads/main/series.m3u",
+				"info": "For เด็กปากพนังน่ะครับ",
+				"import": false},
            
             
  
